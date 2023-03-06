@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a793439f2edd2bf46892fc7bfcb1d006
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gabia Cheongyeon
+  fontNames:
+  - Gabia Cheongyeon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33be69d8cb54f8b448bade455d735138, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
